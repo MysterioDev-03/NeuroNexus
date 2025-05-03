@@ -1,5 +1,4 @@
 # Ignore Python virtual environments
 venv/
-titanic/venv/
 __pycache__/
 *.pyc
